@@ -1,8 +1,0 @@
-com\frdetection\notification\NotificationConfig.class
-com\frdetection\notification\NotificationController.class
-com\frdetection\notification\NotificationRepository.class
-com\frdetection\notification\NotificationService.class
-com\frdetection\notification\rabbitmq\NotificationConsumer.class
-com\frdetection\notification\Notification$NotificationBuilder.class
-com\frdetection\notification\Notification.class
-com\frdetection\notification\NotificationApplication.class
