@@ -1,0 +1,8 @@
+com\frdetection\customer\Customer$CustomerBuilder.class
+com\frdetection\customer\CustomerController.class
+com\frdetection\customer\CustomerService.class
+com\frdetection\customer\CustomerApplication.class
+com\frdetection\customer\CustomerRepository.class
+com\frdetection\customer\RequestCustomer.class
+com\frdetection\customer\Customer.class
+com\frdetection\customer\CustomerConfig.class

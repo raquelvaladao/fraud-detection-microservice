@@ -1,5 +1,8 @@
 package com.frdetection;
 
+import com.frdetection.customer.CustomerController;
+import com.frdetection.customer.CustomerService;
+import com.frdetection.customer.RequestCustomer;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

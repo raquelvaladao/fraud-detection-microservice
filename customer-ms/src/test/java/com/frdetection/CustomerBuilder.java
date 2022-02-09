@@ -1,5 +1,7 @@
 package com.frdetection;
 
+import com.frdetection.customer.Customer;
+import com.frdetection.customer.RequestCustomer;
 import lombok.Builder;
 
 @Builder
