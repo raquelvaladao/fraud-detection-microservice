@@ -17,9 +17,7 @@
 ```
 docker compose up -d
 ```
-+ Access localhost:5050 and at "Create new server", create a new server with the host variable name the same as network's variable, 'postgres'.
-+ Create 'customer' db in pgAdmin UI.
-+ Create 'fraud' db in pgAdmin UI.
-
-
-### Work in progress...
+ 
+### Work in progress... todo:
++ [ ] swap eureka for kubernetes
++ [ ] swap rabbitmq for kafka
